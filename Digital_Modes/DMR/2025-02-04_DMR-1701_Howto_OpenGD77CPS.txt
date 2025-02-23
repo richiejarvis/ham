@@ -1,0 +1,35 @@
+NOTE ON PROGRAMMING CABLES!
+
+DM-1701 works with DM-1801 and RD-5R cables, basically other Baofeng direct USB cables.
+It does not work with Baofeng UV-5R etc cables that have a USB to Serial converter chip in the plug.
+
+Used the following Video to figure this out if you prefer video learning: https://www.youtube.com/watch?v=gW-OH-j2it4
+
+Step 0: Get a DMR ID here: https://radioid.net/
+Step 1: If in Chinese Language
+- Green button to get into Menu
+- Utilities (Spanner Icon) then Green
+- Item 1 then Green
+- Item 8 then Green
+- There are 2 options - Top option then Green, which selects English
+
+Step 2: Download the latest copy of CPS from: https://www.opengd77.com/viewforum.php?f=12 - the "Announcements" section shows the latest version.
+Step 3: Download from drive.proton.me (the site currently in use for the software.  It may change in future)
+- Note: Google Chrome downloaded the file, BUT it didn't rename it from "Unconfirmed blah blah blah.crdownload".  I manually renamed the crdownload file to "OpenGD77CPSInstaller.exe" and then it worked.
+Step 4: I did a completely standard install.  I left "Install penGD77 Comm port driver" ticked.
+Step 5: OpenGD77CPS started automagically eventually
+Step 6: Accept the warning
+Step 7: Login to the website: https://radioid.net/login to create/retrieve your DMR ID.  I signed up for mine a while back.  I think I had to send in a copy of my HAM licence PDF from Ofcom.
+Step 8: You will find 2 driver files on the website https://www.opengd77.com/downloads/drivers/  Download and install them both.
+Step 9: Start OpenGD77CPS
+Step 10: Change the Radio type to "MD9600,RT-90/MD-UV380/RT3S,DM-1701/RT-84,MD-2017/RT-82" - the second option.  More radios might be listed in the future.
+Step 11: Follow the instructions here: https://www.opengd77.com/viewtopic.php?f=19&t=2380
+Step 12: Where it says to "Backup Flash" and it is very important, do not skip this step!  Your radio should be in normal mode, not in the Firmware Loader mode.  The Green light should be on.  
+Step 13: Open the "Program" menu item, click "Cancel" if it asks for a COM port, and the OpenGD77 Support page will open.  Click "Backup Flash".  The process will start, and the Radio will display "CPS Backup Flash" on the radio screen.  The CPS will display "Reading Flash" and the green progress bar will show the progress.  Wait for it to complete.
+Step 14: The "Save" dialog will appear.  Name the file something you can find later if you need to.  Save it somewhere safe.
+Step 15: Continue with the instructions on the https://www.opengd77.com/viewtopic.php?f=19&t=2380 page
+Step 16: In the OpenGD77 Support window, click "Read codeplug".  Mine displayed: 
+"Your codeplug uses 16 channel zones.  It will be automatically updated to 80 channel zones.  Please check the Zones to ensure the update worked correctly before saving or uploading the codeplug"
+Click "OK"
+Step 17: Double click on "DMR ID and callsign" on the left hand side of the CPS, and enter your Callsign and DMR ID.
+Step 18: 

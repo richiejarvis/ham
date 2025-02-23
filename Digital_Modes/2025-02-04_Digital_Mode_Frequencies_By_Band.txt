@@ -1,0 +1,94 @@
+Digital Mode Frequency List from https://hamhub.uk/forums/topic/common-digital-mode-frequencies/
+
+Analog SSTV (look at http://max.cqsstv.com/index.php for current stations receiving SSTV)
+160m 1.890 MHz LSB SSTV Call Freq.
+80m 3.845 MHz LSB SSTV Call Freq.
+80m 3.730 MHz LSB Europe Call Freq.
+40m 7.040 MHz LSB US SSTV Call Freq. (in the EU/UK digital area)
+40m 7.171 Mhz LSB UK/EU SSTV call freq
+30m 10.132 MHz USB Use narrow mode MP73N ONLY
+20m 14.230 MHz USB SSTV Call Freq. (SSTV on this frequency virtually constantly during the day)
+15m 21.340 MHz USB SSTV Call Freq.
+10m 28.680 MHz USB SSTV Call Freq.
+6m 50.680 MHz FM SSTV Call Freq.
+6m 50.950 MHz SSB SSTV Call Freq.
+2m 145.500 MHz FM SSTV Call Freq.
+2m 145.600 MHz FM SSTV Call Freq.
+2m 144.550 MHz SSB SSTV Call Freq.
+1.25M 223.850MHz FM SSTV Call Freq.
+70CM 430.950 MHz FM SSTV Call Freq.
+
+Digital SSTV (Use EASYPAL to recieve digital SSTV)
+
+3.733 (LSB)yes
+3.736 main freq(LSB)yes
+3.739 (LSB)yes
+5.3665 (LSB)? Full Lic Only this band
+5.3715 (LSB)? Full Lic Only this band
+7.052 (LSB)?
+7.055 (LSB)?
+7.058 (LSB)?
+14.233 (USB)yes
+21.337 (USB)?
+21.343(USB) ?
+28.667 (USB)?
+144.55 (?) ?
+
+JS8Call
+
+160m 1.842 (USB)
+40m 7.078 (USB)
+30m 10.130 (USB)
+20m 14.078 (USB)
+17m 18.104 (USB)
+15m 21.078 (USB)
+10m 28.078 (USB)
+6m 50.328 (USB)
+
+FT8 (use WSJT-x to recieve FT8)
+160m 1.840 (USB) (Main)
+80m 3.573 (USB) (Main)
+60m 5.357 (USB) (Main) Full Lic Only this band
+40m 7.056 (USB) Region 1
+40m 7.071 (USB)
+40m 7.074 (USB) (Main)
+30m 10.132 (USB) Region 1
+30m 10.133 (USB)
+30m 10.136 (USB) (Main)
+20m 14.074 (USB) (Main)
+20m 14.090 (USB) Region 1
+17m 18.100 (USB) (Main)
+15m 21.074 (USB) (Main)
+12m 24.915 (USB) (Main)
+10m 28.074 (USB) (Main)
+6m 50.310
+6m 50.313
+6m 50.323 Intercontinental DX
+4m 70.100
+2m 144.174
+1.25m 222.065
+70cm 432.065
+
+Worked all Britain nets (voice)
+80m 3.760
+
+Q65 (use WSJT-x to Recieve Q65, little used at moment as new mode)
+
+50.275 q65-30a (US)
+50.305 q65-30a (EU)
+
+144.110 q65-60c
+144.120 q65-60c / Q65-15a
+
+PSK31 (Use FLDigi to recieve PSK modes)
+
+7.040 YES
+14.070 YES
+
+RTTY (Use FLDigi to recieve RTTY)
+
+7.042
+
+Olivia (16/500) (Use FLDigi to recieve olivia modes)
+
+60m 5.3665 USB Main (Y) Full Lic Only this band
