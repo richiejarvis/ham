@@ -45,7 +45,7 @@ Used the following Video to figure this out if you prefer video learning: https:
 			
 	Click `File` then `Save`.  Find a place to save it.		
 		
-1. Download my blank codeplug from here: https://github.com/richiejarvis/ham/blob/main/Digital_Modes/DMR/Blank_2025-02-22_2244_Codeplug_Iteration_8.g77 and save it.  Load it into the OpenGD77CPS using the `File` then `Open` menu.
+1. Download my blank codeplug from here: https://github.com/richiejarvis/ham/blob/main/Digital_Modes/DMR/OpenGD77/Blank_2025-02-23_1552_Codeplug_Iteration_9.g77 and save it.  Load it into the OpenGD77CPS using the `File` then `Open` menu.
 
 	This codeplug contains the following setup - `code style` names are the names in the CPS.
 
