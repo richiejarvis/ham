@@ -45,4 +45,50 @@ Used the following Video to figure this out if you prefer video learning: https:
 			
 	Click `File` then `Save`.  Find a place to save it.		
 		
+1. Download my blank codeplug from here: https://github.com/richiejarvis/ham/blob/main/Digital_Modes/DMR/Blank_2025-02-22_2244_Codeplug_Iteration_8.g77 and save it.  Load it into the OpenGD77CPS using the `File` then `Open` menu.
+
+This codeplug contains the following setup - `code style` names are the names in the CPS.
+
+	- `DMR ID and Callsign` set to `YOURS` & `1`
+	- All Analogue Simplex 2m `Channels` from this list: https://hamradiosouthernrepeaters.co.uk/images/PDF/Simplex_Channel_Frequency.pdf
+	- Analogue Simplex  70cms `Channels` from this list: https://hamradiosouthernrepeaters.co.uk/images/PDF/Simplex_Channel_Frequency.pdf
+	- All Analogue Repeater 2m & 70cms `Channels` with a CTCSS code of 88.5 - Change to taste for your local repeaters.
+	- The following South East area repeaters with the correct CTCSS code pre-set:
+		- GB3LR
+		- GB3HY
+		- GB3HE
+		- GB7ZE
+		- GB3MH
+		- GB3ES
+		- GB3WS
+		- GB7RX
+	- DMR GB7ZE `TG List
+	- WPSD HotSpot `TG Group List`
+		- Both TalkGroup List's contain the following `Digital Contacts`
+			- Groups - Time Slot (TS) 1
+				- Local TG 9 (Call ID 9)
+			- Groups - Time Slot (TS) 2
+				- South East (Call ID 23510)
+				- Kent Chat (Call ID 23519)
+				- UK Chat Main (Call ID 2350)
+				- UK Chat 1 (Call ID 2351)
+				- UK Chat 2 (Call ID 2352)
+				- UK Chat 3 (Call ID 2353)
+				- Ireland Chat (Call ID 2354)
+				- Scotland Chat (Call ID 2355)
+				- Wales Chat (Call ID 2356)
+				- HUBNet (Call ID 23526)
+				- World-Wide (Call ID 91)
+				- World-Wide TAC 1 (Call ID 901)
+				- World-Wide TAC 2 (Call ID 902)
+				- World-Wide TAC 3 (Call ID 903)
+			- Private Call - Time Slot (TS 1)
+				- PARROT (Call ID 9990) - Use this to test - Press PTT, Talk, and it will "Parrot" your audio back to you.
+			- Private Call - Time Slot (TS 2)
+				- DISCONNECT (Call ID 4000) - __I've not figured out what this one does yet?__
+
 1. Double click on "DMR ID and callsign" on the left hand side of the CPS, and enter your Callsign and DMR ID.
+
+1. Connect your Baofeng DM-1701 (or other OpenGD77 supported radio) and select menu item `Program` then `Write`.
+
+1. Try the radio with GB7ZE or Hotspot.

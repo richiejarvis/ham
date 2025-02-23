@@ -1,5 +1,0 @@
-Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco,APRS,Latitude,Longitude,Use Location
-1,GB7ZE DMR,Digital,	433.05000,	434.65000,,3,1,None,DMR GB7ZE,None,Off,Off,,,,P9,No,No,No,0,Off,No,No,None,50.9,0.6,No
-2,GB7ZE Analog,Analogue,	433.05000,	434.65000,25,,,,,,,,103.5,103.5,10%,P9,No,No,No,0,Off,No,No,None,50.9,0.6,No
-3,GB3ES Analog,Analogue,	145.67500,	145.07500,25,,,,,,,,103.5,103.5,10%,P9,No,No,No,0,Off,No,No,None,50.9,0.6,No
-4,GB3HE Analog,Analogue,	430.92500,	438.52500,25,,,,,,,,103.5,103.5,10%,P9,No,No,No,0,Off,No,No,None,50.9,0.6,No
